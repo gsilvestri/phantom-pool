@@ -19,7 +19,7 @@ var callback = function (error, response, body) {
 var nethashExpected = constants.MAIN_NET_NETHASH;
 var passphrase = phassphrases.PASSPHRASE_MAINNET;
 var secondPassphrase = phassphrases.SECOND_PASSPHRASE_MAINNET;
-ripa.crypto.setNetworkVersion(MAIN_NET_VERSION);
+ripa.crypto.setNetworkVersion(constants.MAIN_NET_VERSION);
 if (ENDPOINT === constants.DEV_NET_ENDPOINT) {
     payments = require('./paymentsDevNET');
     ripa.crypto.setNetworkVersion(ripa.networks.devnet.pubKeyHash);
@@ -63,28 +63,28 @@ if (payments !== null) {
             //Send Transactions Pending
             for (var key in transactionsObject) {
                 if (transactionsObject[key].recipientId && transactionsObject[key].amount) {
-                    var transaction = ripa.transaction.createTransaction(transactionsObject[key].recipientId, transactionsObject[key].amount, constants.MESSAGE_1, passphrase, secondPassphrase, MAIN_NET_VERSION, MAIN_NET_FEE);
+                    var transaction = ripa.transaction.createTransaction(transactionsObject[key].recipientId, transactionsObject[key].amount, constants.MESSAGE_1, passphrase, secondPassphrase, constants.MAIN_NET_VERSION, constants.MAIN_NET_FEE);
                     transactionsRequest[transactionsRequestKey].push(transaction);
                 }
             }
             //Send Transactions Pending
             for (var key in transactionsPendingObject) {
                 if (transactionsPendingObject[key].recipientId && transactionsPendingObject[key].amount) {
-                    var transaction = ripa.transaction.createTransaction(transactionsPendingObject[key].recipientId, transactionsPendingObject[key].amount, constants.MESSAGE_1, passphrase, secondPassphrase, MAIN_NET_VERSION, MAIN_NET_FEE);
+                    var transaction = ripa.transaction.createTransaction(transactionsPendingObject[key].recipientId, transactionsPendingObject[key].amount, constants.MESSAGE_1, passphrase, secondPassphrase, constants.MAIN_NET_VERSION, constants.MAIN_NET_FEE);
                     transactionsRequest[transactionsRequestKey].push(transaction);
                 }
             }
             //Send Donations
             for (var key in donationsObject) {
                 if (donationsObject[key].recipientId && donationsObject[key].amount) {
-                    var transaction = ripa.transaction.createTransaction(donationsObject[key].recipientId, donationsObject[key].amount, constants.MESSAGE_2, passphrase, secondPassphrase, MAIN_NET_VERSION, MAIN_NET_FEE);
+                    var transaction = ripa.transaction.createTransaction(donationsObject[key].recipientId, donationsObject[key].amount, constants.MESSAGE_2, passphrase, secondPassphrase, constants.MAIN_NET_VERSION, constants.MAIN_NET_FEE);
                     transactionsRequest[transactionsRequestKey].push(transaction);
                 }
             }
             //Send Donations Percentage
             for (var key in donationsPercentageObject) {
                 if (donationsPercentageObject[key].recipientId && donationsPercentageObject[key].amount) {
-                    var transaction = ripa.transaction.createTransaction(donationsPercentageObject[key].recipientId, donationsPercentageObject[key].amount, constants.MESSAGE_2, passphrase, secondPassphrase, MAIN_NET_VERSION, MAIN_NET_FEE);
+                    var transaction = ripa.transaction.createTransaction(donationsPercentageObject[key].recipientId, donationsPercentageObject[key].amount, constants.MESSAGE_2, passphrase, secondPassphrase, constants.MAIN_NET_VERSION, constants.MAIN_NET_FEE);
                     transactionsRequest[transactionsRequestKey].push(transaction);
                 }
             }
