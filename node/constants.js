@@ -1,7 +1,9 @@
-const MAIN_NET_ENDPOINT = 'http://phantom.api.cryptdelegate.com'; 
-const MAIN_NET_NETHASH = '5e67037fd290ba7ab378e84a591d251c46eb9770eb134983771fd602233bf193';
+const MAIN_NET_ENDPOINT = 'https://phantom.api.cryptdelegate.com'; 
+const MAIN_NET_NETHASH = '63b3351133e5721c199594c9d4f0e0e57adc5554216a390d3ea77c38366d01c9';
 const DEV_NET_ENDPOINT = '';
 const DEV_NET_NETHASH = '';
+const MAIN_NET_FEE = 100000000;
+const MAIN_NET_VERSION = 55;
 const GET_NET_HASH_ENDPOINT = '/api/blocks/getNethash';
 const TRANSACTIONS_ENDPOINT = '/api/v2/transactions';//'/peer/transactions';
 const HEADER_CONTENT_TYPE = 'application/json';
@@ -15,6 +17,8 @@ const MESSAGE_2 = 'pool sharing: RCF';
 module.exports = {
     MAIN_NET_ENDPOINT: MAIN_NET_ENDPOINT,
     MAIN_NET_NETHASH: MAIN_NET_NETHASH,
+    MAIN_NET_FEE: MAIN_NET_FEE,
+    MAIN_NET_VERSION: MAIN_NET_VERSION,
     DEV_NET_ENDPOINT: DEV_NET_ENDPOINT,
     DEV_NET_NETHASH: DEV_NET_NETHASH,
     GET_NET_HASH_ENDPOINT: GET_NET_HASH_ENDPOINT,
