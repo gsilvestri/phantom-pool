@@ -1,27 +1,27 @@
 {
     "pending": {},
-    "lastforged": 10794000000000,
-    "lastpayout": 1553443090,
+    "lastforged": 13684000000000,
+    "lastpayout": 1554043131,
     "accounts": {
         "PAQJFYe1eAsm3SKKY1WW128ZkMj3C3WPgA": {
             "pending": 0.0,
-            "received": 2400.6622697418507
+            "received": 2777.9549685119523
         },
         "PLytEzkAvhjtr5Ku6y79EKK3sKKWy7ReQY": {
             "pending": 0.0,
-            "received": 9237.166256254422
+            "received": 9237.733937356355
         },
         "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ": {
             "pending": 0.0,
-            "received": 28731.950543792173
+            "received": 35209.16073917037
         },
         "PLGEyYu3LZ6tGRQwWweT2wsVzBsgGBYJWW": {
             "pending": 0.0,
-            "received": 15534.378899877918
+            "received": 17961.39336557373
         },
         "PDAh1CK3cJScGYFF9PsCUWAJMCeXwziVLK": {
             "pending": 0.0,
-            "received": 4396.046553663478
+            "received": 5272.275576968448
         },
         "PLyMmFeP7MQa1jRaFGazdTgF2hQC4KXdbG": {
             "pending": 0.0,
@@ -29,19 +29,23 @@
         },
         "PB23uc6eBBgoBtHv2fDDvEBrCZJfckfCVZ": {
             "pending": 0.0,
-            "received": 8049.023595420809
+            "received": 9743.80262561693
         },
         "PHn61Zt746VXC19eCiu2UmVfyx34jbFo7g": {
             "pending": 0.0,
-            "received": 2656.5476093507737
+            "received": 3733.97042061963
         },
         "PSVypUsv6dTG6o81oTsUb3RUdBw3uDzndn": {
             "pending": 0.0,
-            "received": 7857.809622057696
+            "received": 11044.72157636001
         },
         "PSy5SnVi6b3vjBeb9e8FYhrWc7KNk9ixER": {
             "pending": 0.0,
-            "received": 11362.767839876133
+            "received": 22686.26598643775
+        },
+        "P93mS5ZVPRRip8XefTU3NvCwHFsoi2Fq8y": {
+            "pending": 0.0,
+            "received": 14.073993420072386
         }
     }
 }
