@@ -18,6 +18,11 @@ if 'logfile' in conf:
 	LOGFILE = conf['logfile']
 else:
 	LOGFILE = 'poollogs.json'
+	
+if 'paymentsFile' in conf:
+	PAYMENTS_FILE = conf['paymentsFile']
+else:
+	PAYMENTS_FILE = 'payments.json'
 
 
 def loadLog ():
@@ -109,7 +114,7 @@ def pool ():
 		print ('Nothing to distribute, exiting...')
 		return
 		
-	f = open ('payments.json', 'w')
+	f = open (PAYMENTS_FILE, 'w')
 	f.write('{\"transactions\": [\n')
 	index = 0
 	for x in topay:
