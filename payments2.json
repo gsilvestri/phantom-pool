@@ -1,0 +1,10 @@
+{"transactions": [
+{"secret": "", "amount": 361774641407, "recipientId": "PKyaDLTBG6rW3qXxiDyDryicmFfnM1SMBQ", "secondSecret": ""},
+{"secret": "", "amount": 1384325358592, "recipientId": "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ", "secondSecret": ""}],
+ "transactionsPending": [
+],
+ "donations": [
+],
+ "donationsPercentage": [
+{"secret": "", "amount": 43652500000, "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM", "secondSecret": ""}]
+}
