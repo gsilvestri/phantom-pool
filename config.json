@@ -3,7 +3,7 @@
 	"node": "http://phantom.api.cryptdelegate.com",
 	"nodepay": "http://phantom.api.cryptdelegate.com",
 	"pubkey": "03e49b0eff355e2623824b5c82e47d9ddb253ade33b0b7c3a4b3b549a284250e19",
-	"percentage": 95,
+	"percentage": 90,
 	"logfile": "poollogs.json",
 	"paymentsFile": "payments.json",
 	"minpayout": 0.2,

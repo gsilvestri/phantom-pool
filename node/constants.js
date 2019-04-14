@@ -11,7 +11,7 @@ const HEADER_OS = 'phantom-pool';
 const HEADER_PORT = 4003;
 const HEADER_VERSION = require('./package.json').version;
 const PRECISION = 8;
-const MESSAGE_1 = 'pool sharing - 95%: www.cryptdelegate.com';
+const MESSAGE_1 = 'pool sharing - 90%: www.cryptdelegate.com';
 const MESSAGE_2 = 'PRG - avantgardecollective.org';
 
 module.exports = {

@@ -2,7 +2,7 @@ var ripa = require('ripajs');
 var request = require('request');
 var phassphrases = require('./passphrases');
 var constants = require('./constants');
-var payments = require('../payments');
+var payments = require('../payments2');
 var logger = require('winston');
 logger.level = 'info';
 
