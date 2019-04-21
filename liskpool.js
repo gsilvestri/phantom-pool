@@ -49,28 +49,28 @@ async function broadcastPayments(_config, _payments, _passphrases, _passphrasesF
 			//Create Transactions
 			for (var key in transactionsObject) {
 				if (transactionsObject[key].recipientId && transactionsObject[key].amount) {
-					var transaction = ripa.transaction.createTransaction(transactionsObject[key].recipientId, transactionsObject[key].amount, _config.MESSAGE_1, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE);
+					var transaction = ripa.transaction.createTransaction(transactionsObject[key].recipientId, transactionsObject[key].amount, _config.MESSAGE_1, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE, _config.MAIN_NET_FEE);
 					transactionsRequest[transactionsRequestKey].push(transaction);
 				}
 			}
 			//Create Transactions Pending
 			for (var key in transactionsPendingObject) {
 				if (transactionsPendingObject[key].recipientId && transactionsPendingObject[key].amount) {
-					var transaction = ripa.transaction.createTransaction(transactionsPendingObject[key].recipientId, transactionsPendingObject[key].amount, _config.MESSAGE_1, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE);
+					var transaction = ripa.transaction.createTransaction(transactionsPendingObject[key].recipientId, transactionsPendingObject[key].amount, _config.MESSAGE_1, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE, _config.MAIN_NET_FEE);
 					transactionsRequest[transactionsRequestKey].push(transaction);
 				}
 			}
 			//Create Donations
 			for (var key in donationsObject) {
 				if (donationsObject[key].recipientId && donationsObject[key].amount) {
-					var transaction = ripa.transaction.createTransaction(donationsObject[key].recipientId, donationsObject[key].amount, _config.MESSAGE_2, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE);
+					var transaction = ripa.transaction.createTransaction(donationsObject[key].recipientId, donationsObject[key].amount, _config.MESSAGE_2, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE, _config.MAIN_NET_FEE);
 					transactionsRequest[transactionsRequestKey].push(transaction);
 				}
 			}
 			//Create Donations Percentage
 			for (var key in donationsPercentageObject) {
 				if (donationsPercentageObject[key].recipientId && donationsPercentageObject[key].amount) {
-					var transaction = ripa.transaction.createTransaction(donationsPercentageObject[key].recipientId, donationsPercentageObject[key].amount, _config.MESSAGE_2, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE);
+					var transaction = ripa.transaction.createTransaction(donationsPercentageObject[key].recipientId, donationsPercentageObject[key].amount, _config.MESSAGE_2, _passphrases.PASSPHRASE, _passphrases.SECOND_PASSPHRASE, _config.MAIN_NET_FEE);
 					transactionsRequest[transactionsRequestKey].push(transaction);
 				}
 			}
