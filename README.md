@@ -19,6 +19,19 @@ Fork this repo; edit config.json and modify the first lines with your settings:
 - **donations**: a list of object (address: amount) for send static amount every payout
 - **donationspercentage**: a list of object (address: percentage) for send static percentage every payout
 - **logfile**: file where you want to write pending and sent amounts
+- for XPH change in
+```
+/**
+ * @returns {Date}
+ */
+function beginEpochTime() {
+	var d = new Date(Date.UTC(2018,12,03,12,0,0,0))
+
+	return d;
+}
+```
+Source: `node_modules/ripajs/lib/time/slots.js`
+
 
 Now edit docs/index.html and customize the webpage.
 
