@@ -1,7 +1,7 @@
 {
 	"coin": "XPH",
 	"node": "http://phantom.api.cryptdelegate.com",
-	"nodepay": "http://phantom.api.cryptdelegate.com",
+	"MAIN_NET_NETHASH": "63b3351133e5721c199594c9d4f0e0e57adc5554216a390d3ea77c38366d01c9",
 	"pubkey": "03e49b0eff355e2623824b5c82e47d9ddb253ade33b0b7c3a4b3b549a284250e19",
 	"percentage": 90,
 	"logfile": "docs/poollogs.json",
