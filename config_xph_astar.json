@@ -21,5 +21,6 @@
 	"HEADER_PORT": 4003,
 	"MESSAGE_1": "pool sharing - 90%: www.cryptdelegate.com",
 	"MESSAGE_2": "PRG - avantgardecollective.org",
-	"MAIN_NET_FEE": 50000000
+	"MAIN_NET_FEE": 50000000,
+	"MAIN_NET_VERSION": 55
 }
