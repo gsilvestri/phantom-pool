@@ -161,10 +161,8 @@ async function pool() {
 	logger.debug('Config: ' + JSON.stringify(config, null, 4));
 	logger.info('Poollogs Filename: ' + poollogsFilename);
 	logger.debug('Poollogs: ' + JSON.stringify(poollogs, null, 4));
-	var replySend = readlineSync.question('Do You want to send or calculate? (s/c) ');
-	if (replySend.toLowerCase() === 's') {
-		broadcastPayments(config, payments, passphrases, passphrasesFilename, autosave);
-	} else {
+	var replySendCalculate = readlineSync.question('Do You want to send or calculate? (s/c) ');
+	if (replySendCalculate.toLowerCase() === 'c') {
 		var estimatePayoutsResult = await estimatePayouts(config, poollogs);
 		logger.debug('Result pool(): ' + JSON.stringify(estimatePayoutsResult, null, 4));
 		var payouts = estimatePayoutsResult.payouts;
@@ -226,7 +224,6 @@ async function pool() {
 					saveLog(log, poollogsFilename);
 					//write payments.json file
 					saveLog(payments, paymentsFilename);
-					broadcastPayments(config, payments, passphrases, passphrasesFilename, autosave);
 				}
 			} else {
 				logger.info('Nothing to distribute, exiting...');
@@ -235,6 +232,7 @@ async function pool() {
 			logger.info('Nothing to distribute, exiting...');
 		}
 	}
+	broadcastPayments(config, payments, passphrases, passphrasesFilename, autosave);
 }
 
 function saveLog(_file, _fileName) {
