@@ -5,3 +5,4 @@ node_modules/
 package-lock.json
 passphrases.json
 passphrases_xph_astar.json
+passphrases_xph_dijkstra.json

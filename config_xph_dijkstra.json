@@ -1,0 +1,26 @@
+{
+	"coin": "XPH",
+	"node": "https://phantom.api.cryptdelegate.com",
+	"MAIN_NET_NETHASH": "63b3351133e5721c199594c9d4f0e0e57adc5554216a390d3ea77c38366d01c9",
+	"pubkey": "03427ac37a58cd55a113a826727052f0d78d91ed2e4527fd5a8a92455fab9cab17",
+	"percentage": 90,
+	"logfile": "docs/poollogs_xph_dijkstra.json",
+	"paymentsFile": "payments_xph_dijkstra.json",
+	"minpayout": 0.2,
+	"secret": "passphrases_xph_dijkstra.json",
+	"secondsecret": "",
+	"donations": {},
+	"donationspercentage": {
+		"PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM": 2.5
+	},
+	"skip": [],
+	"GET_NET_HASH_ENDPOINT": "/api/blocks/getNethash",
+	"TRANSACTIONS_ENDPOINT": "/api/v2/transactions",
+	"HEADER_CONTENT_TYPE": "application/json",
+	"HEADER_OS": "phantom-pool",
+	"HEADER_PORT": 4003,
+	"MESSAGE_1": "pool sharing - 90%: www.cryptdelegate.com",
+	"MESSAGE_2": "PRG - avantgardecollective.org",
+	"MAIN_NET_FEE": 50000000,
+	"MAIN_NET_VERSION": 55
+}
