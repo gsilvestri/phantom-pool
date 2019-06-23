@@ -1,15 +1,15 @@
 {
     "pending": {},
-    "lastforged": 46028000000000,
-    "lastpayout": 1560700428,
+    "lastforged": 48886000000000,
+    "lastpayout": 1561305488,
     "accounts": {
         "PAQJFYe1eAsm3SKKY1WW128ZkMj3C3WPgA": {
             "pending": 0,
-            "received": 7783.325673639909
+            "received": 8180.671123847636
         },
         "PLytEzkAvhjtr5Ku6y79EKK3sKKWy7ReQY": {
             "pending": 0,
-            "received": 9245.265104447082
+            "received": 9245.862957264326
         },
         "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ": {
             "pending": 0,
@@ -17,11 +17,11 @@
         },
         "PLGEyYu3LZ6tGRQwWweT2wsVzBsgGBYJWW": {
             "pending": 0,
-            "received": 47703.48570396163
+            "received": 50017.770239092606
         },
         "PDAh1CK3cJScGYFF9PsCUWAJMCeXwziVLK": {
             "pending": 0,
-            "received": 16896.807667124034
+            "received": 17819.607437396044
         },
         "PLyMmFeP7MQa1jRaFGazdTgF2hQC4KXdbG": {
             "pending": 0,
@@ -29,63 +29,63 @@
         },
         "PB23uc6eBBgoBtHv2fDDvEBrCZJfckfCVZ": {
             "pending": 0,
-            "received": 32227.665517914626
+            "received": 34012.52045667071
         },
         "PHn61Zt746VXC19eCiu2UmVfyx34jbFo7g": {
             "pending": 0,
-            "received": 18027.64902649529
+            "received": 19162.335844987963
         },
         "PSVypUsv6dTG6o81oTsUb3RUdBw3uDzndn": {
             "pending": 0,
-            "received": 53324.03360093036
+            "received": 56680.32692275615
         },
         "PSy5SnVi6b3vjBeb9e8FYhrWc7KNk9ixER": {
             "pending": 0,
-            "received": 172909.9678687053
+            "received": 184835.29927226325
         },
         "P93mS5ZVPRRip8XefTU3NvCwHFsoi2Fq8y": {
             "pending": 0,
-            "received": 200.78726562943464
+            "received": 215.60927853824626
         },
         "PHZkNqEQf7LQQAjMqZK6mcZxsQxKcYkUTU": {
             "pending": 0,
-            "received": 3112.841450079669
+            "received": 3388.1643310085146
         },
         "PF4hhs32e7TK6dEmAy9agxWE2NffSBxDjR": {
-            "pending": 0.1295758248657601,
-            "received": 1.1511314041815717
+            "pending": 0,
+            "received": 1.406862695224168
         },
         "PEoBQqGCEyQFqGKuaQ7ZwKZuDnQLMsykSy": {
             "pending": 0,
-            "received": 964.6958512623665
+            "received": 1073.0170583213162
         },
         "PPRmE8hGbHAg5nmsk9js1oC3uiwVdHwwR6": {
             "pending": 0,
-            "received": 422.54555013980115
+            "received": 469.9912232694211
         },
         "PUpVvkXqsZpQxKkYueYVE3vzTvEsTNgpSs": {
             "pending": 0,
-            "received": 196.35729193836954
+            "received": 218.40533832490837
         },
         "PX11A6qnVDK5EfDnhEyxSVtF5hfhdB9Mea": {
             "pending": 0,
-            "received": 1908.2960033447841
+            "received": 2155.1065955038243
         },
         "P8nnStMyikL35ht19gNouJYnW5RPPZVMFi": {
             "pending": 0,
-            "received": 458.6131775304332
+            "received": 542.9966030249494
         },
         "PKiGWoYUe1pvjuVHWBkHbsvNeUjgFwKTCG": {
-            "pending": 0.12374746603204387,
-            "received": 0.5335248548259518
+            "pending": 0,
+            "received": 0.777753276944118
         },
         "PWbEazG9bGaHMQp7Zx4Lks7WoiuUcjnpkU": {
             "pending": 0,
-            "received": 157.7614124799284
+            "received": 186.789031065965
         },
         "PNTAU598SJRydZpiRim8G9pUYVaHf19Bkx": {
             "pending": 0,
-            "received": 9209.290427871443
+            "received": 12129.994482744436
         },
         "PFzsev9KMFMJpmsW3t4aE9Qv9Wvokv4zuy": {
             "pending": 0,
@@ -93,7 +93,7 @@
         },
         "PJJyak5H3GHY2JfJCmXq7VQZvrSmCpDJDt": {
             "pending": 0,
-            "received": 280.96953177004946
+            "received": 417.6432927619894
         }
     }
 }
