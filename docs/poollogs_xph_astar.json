@@ -1,11 +1,11 @@
 {
     "pending": {},
-    "lastforged": 102680000000000,
-    "lastpayout": 1575232455,
+    "lastforged": 104100000000000,
+    "lastpayout": 1575803063,
     "accounts": {
         "PKyaDLTBG6rW3qXxiDyDryicmFfnM1SMBQ": {
             "pending": 0,
-            "received": 56499.1669898866
+            "received": 57881.53347459374
         },
         "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ": {
             "pending": 0,
@@ -25,7 +25,7 @@
         },
         "PNncWRNVoaAX8y9grBjrhtPwUtHhLnQAtJ": {
             "pending": 0,
-            "received": 3935.455866584095
+            "received": 4001.530600221839
         },
         "PHq6cg37YQ7nWvqTX92PF47r5z3Nh7UcA2": {
             "pending": 0,
@@ -37,7 +37,7 @@
         },
         "PNTAU598SJRydZpiRim8G9pUYVaHf19Bkx": {
             "pending": 0,
-            "received": 417759.6535547786
+            "received": 422033.2726860023
         },
         "PHWM73AArMiPQvQK2K7Z3grj3JkU286utM": {
             "pending": 0,
@@ -53,11 +53,11 @@
         },
         "P9GiF7uxeXWQbMT2Cbr7urwihJ7yh7GjVK": {
             "pending": 0,
-            "received": 53002.58333010267
+            "received": 53908.69241346661
         },
         "PCM9qCUmo8TtRawHB8iZc5rVJ6RVZcHEWW": {
             "pending": 0,
-            "received": 6141.57250007585
+            "received": 6434.324940555657
         },
         "PQ7tqncormrixPsruxK7toRNzoKX8SnK1B": {
             "pending": 0,
@@ -65,7 +65,7 @@
         },
         "PGqUjs3PnsRfRmGrgCAtDq128KcUBumuee": {
             "pending": 0,
-            "received": 1266.5366862782369
+            "received": 1451.6615046992233
         },
         "PJJyak5H3GHY2JfJCmXq7VQZvrSmCpDJDt": {
             "pending": 0,
@@ -77,7 +77,11 @@
         },
         "PCDtfR9YTd6SMJbtJuKnSQiwMh2Q22ZH8c": {
             "pending": 0,
-            "received": 1971.674678573169
+            "received": 3047.7983233595432
+        },
+        "PTmEC4gqtHDRzTLFJ4y6hYXFjg3rh5XmrN": {
+            "pending": 0,
+            "received": 4597.8296633802875
         }
     }
 }
