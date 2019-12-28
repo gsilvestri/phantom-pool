@@ -1,7 +1,7 @@
 {
     "pending": {},
-    "lastforged": 84672000000000,
-    "lastpayout": 1577031942,
+    "lastforged": 87140000000000,
+    "lastpayout": 1577551237,
     "accounts": {
         "PHPVXYUaUCXcaHsuQ4ZBU4JsheNT4ggBSk": {
             "pending": 0,
@@ -9,7 +9,7 @@
         },
         "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ": {
             "pending": 0,
-            "received": 424054.6874765611
+            "received": 434329.605198884
         },
         "PX8qWq6YnHitsEESuttHs1WRZ4R5MUBfhR": {
             "pending": 0,
@@ -21,7 +21,7 @@
         },
         "PXFsspQQjnm6Kdjv32Ygf8n85WENDQwxgB": {
             "pending": 0,
-            "received": 2453.4018329721107
+            "received": 2525.470998534486
         },
         "P9GiF7uxeXWQbMT2Cbr7urwihJ7yh7GjVK": {
             "pending": 0,
@@ -33,7 +33,7 @@
         },
         "PAuRNDRK4kUaWXj7fQUEZAhfghVbkVfpvw": {
             "pending": 0,
-            "received": 1593.5720823403312
+            "received": 1742.1155552712344
         },
         "PDT4sLCS9h3k8WnmmCSYrZPchdeMEeziJJ": {
             "pending": 0,
@@ -41,7 +41,7 @@
         },
         "PQ4pE7Uz536oa9X3sNwrs3kFbwsGNSjwD2": {
             "pending": 0,
-            "received": 383.51622797787275
+            "received": 460.3059533759151
         },
         "PTmEC4gqtHDRzTLFJ4y6hYXFjg3rh5XmrN": {
             "pending": 0,
@@ -57,15 +57,19 @@
         },
         "PNTAU598SJRydZpiRim8G9pUYVaHf19Bkx": {
             "pending": 0,
-            "received": 18344.449323846417
+            "received": 21197.526815511963
         },
         "PXWqf2SrwV5Jz5NeMnyzz2BdpLZeSNx7Yj": {
             "pending": 0,
-            "received": 3329.4490286028645
+            "received": 8340.095147328959
         },
         "PUFok6Dppjep2cEY4ci34UG2Js7myDDCqo": {
             "pending": 0,
-            "received": 1395.847153859658
+            "received": 2340.7821868997607
+        },
+        "PD7Me4rfBS9BmMwDGtPM4R29phLrQdQXxt": {
+            "pending": 0,
+            "received": 2831.0212703540565
         }
     }
 }

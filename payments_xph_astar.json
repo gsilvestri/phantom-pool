@@ -2,31 +2,35 @@
     "transactions": [
         {
             "recipientId": "PCDtfR9YTd6SMJbtJuKnSQiwMh2Q22ZH8c",
-            "amount": 206299960112
+            "amount": 175510752874
         },
         {
             "recipientId": "PCM9qCUmo8TtRawHB8iZc5rVJ6RVZcHEWW",
-            "amount": 56122562761
+            "amount": 47746559127
         },
         {
             "recipientId": "PGqUjs3PnsRfRmGrgCAtDq128KcUBumuee",
-            "amount": 19531123159
+            "amount": 16616203552
         },
         {
             "recipientId": "PNncWRNVoaAX8y9grBjrhtPwUtHhLnQAtJ",
-            "amount": 12666959767
+            "amount": 10776481218
         },
         {
             "recipientId": "PKyaDLTBG6rW3qXxiDyDryicmFfnM1SMBQ",
-            "amount": 265008720919
+            "amount": 225457533300
         },
         {
             "recipientId": "PDT4sLCS9h3k8WnmmCSYrZPchdeMEeziJJ",
-            "amount": 1964551573886
+            "amount": 1190146453948
+        },
+        {
+            "recipientId": "PHFT4nmHJ6SpW2BX3BKkkqFpD8LBbnca4Q",
+            "amount": 524678179143
         },
         {
             "recipientId": "PAXuagsSNU7H1EbaXGCn65A5Bz2egZEjVJ",
-            "amount": 94819099393
+            "amount": 80667836834
         }
     ],
     "transactionsPending": [],
@@ -34,7 +38,7 @@
     "donationsPercentage": [
         {
             "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM",
-            "amount": 65475000000
+            "amount": 56790000000
         }
     ]
 }
