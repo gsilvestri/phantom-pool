@@ -2,35 +2,47 @@
     "transactions": [
         {
             "recipientId": "PAuRNDRK4kUaWXj7fQUEZAhfghVbkVfpvw",
-            "amount": 14854347293
+            "amount": 17540067599
         },
         {
             "recipientId": "PNTAU598SJRydZpiRim8G9pUYVaHf19Bkx",
-            "amount": 285307749166
+            "amount": 275791823408
         },
         {
             "recipientId": "PQ4pE7Uz536oa9X3sNwrs3kFbwsGNSjwD2",
-            "amount": 7678972539
+            "amount": 9067358853
         },
         {
             "recipientId": "PXFsspQQjnm6Kdjv32Ygf8n85WENDQwxgB",
-            "amount": 7206916556
+            "amount": 8509953421
         },
         {
             "recipientId": "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ",
-            "amount": 1027491772232
+            "amount": 1213266041715
+        },
+        {
+            "recipientId": "P9GiF7uxeXWQbMT2Cbr7urwihJ7yh7GjVK",
+            "amount": 97876970020
+        },
+        {
+            "recipientId": "PUAYy6qRWPW3Ra1aUEJ3QiyimwwDZRcQ9B",
+            "amount": 80287949338
         },
         {
             "recipientId": "PD7Me4rfBS9BmMwDGtPM4R29phLrQdQXxt",
-            "amount": 283102127035
+            "amount": 334850004806
         },
         {
             "recipientId": "PXWqf2SrwV5Jz5NeMnyzz2BdpLZeSNx7Yj",
-            "amount": 501064611872
+            "amount": 1146470524345
         },
         {
             "recipientId": "PUFok6Dppjep2cEY4ci34UG2Js7myDDCqo",
-            "amount": 94493503304
+            "amount": 111578274220
+        },
+        {
+            "recipientId": "PGX5sz2AP1y9zABe2m5kBHugQsjDHcXNuB",
+            "amount": 92361032270
         }
     ],
     "transactionsPending": [],
@@ -38,7 +50,7 @@
     "donationsPercentage": [
         {
             "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM",
-            "amount": 55529999999
+            "amount": 84690000000
         }
     ]
 }
