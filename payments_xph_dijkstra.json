@@ -2,47 +2,51 @@
     "transactions": [
         {
             "recipientId": "PAuRNDRK4kUaWXj7fQUEZAhfghVbkVfpvw",
-            "amount": 10118414101
+            "amount": 8041392223
         },
         {
             "recipientId": "PQ4pE7Uz536oa9X3sNwrs3kFbwsGNSjwD2",
-            "amount": 5230726230
+            "amount": 4157007295
         },
         {
             "recipientId": "PXFsspQQjnm6Kdjv32Ygf8n85WENDQwxgB",
-            "amount": 4909173366
+            "amount": 3901460064
         },
         {
             "recipientId": "PW2xJWnuHfx8x2VitTYeVwdtjF7rzrzsdQ",
-            "amount": 699901990422
+            "amount": 556232070252
         },
         {
             "recipientId": "PDT4sLCS9h3k8WnmmCSYrZPchdeMEeziJJ",
-            "amount": 135598684
+            "amount": 107764141
+        },
+        {
+            "recipientId": "PX8qWq6YnHitsEESuttHs1WRZ4R5MUBfhR",
+            "amount": 633687492191
         },
         {
             "recipientId": "P9GiF7uxeXWQbMT2Cbr7urwihJ7yh7GjVK",
-            "amount": 56462707912
+            "amount": 44872524073
         },
         {
             "recipientId": "PUAYy6qRWPW3Ra1aUEJ3QiyimwwDZRcQ9B",
-            "amount": 46316054036
+            "amount": 36808688895
         },
         {
             "recipientId": "P9847jDLjJn3NyTG9WiWRTD7RwScKaSZvd",
-            "amount": 824326538160
+            "amount": 655115806440
         },
         {
             "recipientId": "PD7Me4rfBS9BmMwDGtPM4R29phLrQdQXxt",
-            "amount": 193166359890
+            "amount": 153514814553
         },
         {
             "recipientId": "PXZsZWtGJWj65Ei4LRcBRqSjqWDWnGYJKA",
-            "amount": 684567463186
+            "amount": 544045284177
         },
         {
             "recipientId": "PUFok6Dppjep2cEY4ci34UG2Js7myDDCqo",
-            "amount": 18264974008
+            "amount": 14515695690
         }
     ],
     "transactionsPending": [],
@@ -50,7 +54,7 @@
     "donationsPercentage": [
         {
             "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM",
-            "amount": 63585000000
+            "amount": 66375000000
         }
     ]
 }
