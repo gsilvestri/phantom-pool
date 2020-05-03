@@ -2,63 +2,63 @@
     "transactions": [
         {
             "recipientId": "PCDtfR9YTd6SMJbtJuKnSQiwMh2Q22ZH8c",
-            "amount": 63142290920
+            "amount": 69530084136
         },
         {
             "recipientId": "PCM9qCUmo8TtRawHB8iZc5rVJ6RVZcHEWW",
-            "amount": 17177449686
+            "amount": 18915207296
         },
         {
             "recipientId": "PGqUjs3PnsRfRmGrgCAtDq128KcUBumuee",
-            "amount": 5977896747
+            "amount": 6582650989
         },
         {
             "recipientId": "PNncWRNVoaAX8y9grBjrhtPwUtHhLnQAtJ",
-            "amount": 3876980190
+            "amount": 4269195097
         },
         {
             "recipientId": "PNTAU598SJRydZpiRim8G9pUYVaHf19Bkx",
-            "amount": 397696967068
+            "amount": 437930001874
         },
         {
             "recipientId": "PKyaDLTBG6rW3qXxiDyDryicmFfnM1SMBQ",
-            "amount": 81111299021
+            "amount": 89316927896
         },
         {
             "recipientId": "PDWCcCW8QkHw6AGM3RfCobPRcupakSmN7C",
-            "amount": 9335932897
+            "amount": 10280403045
         },
         {
             "recipientId": "PHFT4nmHJ6SpW2BX3BKkkqFpD8LBbnca4Q",
-            "amount": 189159624354
+            "amount": 208295967803
         },
         {
             "recipientId": "PPkqx5a5SM6ChuxGckVfodHtCRNRNJMACK",
-            "amount": 119446918119
+            "amount": 131530771938
         },
         {
             "recipientId": "PNWLPWPSbmnzai8Lfswend94icBcbBm9r3",
-            "amount": 466085692005
+            "amount": 548801538389
         },
         {
             "recipientId": "PAXuagsSNU7H1EbaXGCn65A5Bz2egZEjVJ",
-            "amount": 184201645185
+            "amount": 202948490126
         },
         {
             "recipientId": "PWwxK13XGHkyoeztdbAGYA1kopNjcBMD9R",
-            "amount": 27518664307
+            "amount": 30302591444
         },
         {
             "recipientId": "PEA9BEYnRrCUgKBugEQ6Wkz3gTik1ipz7S",
-            "amount": 200745378362
+            "amount": 221053795231
         },
         {
             "recipientId": "PGX5sz2AP1y9zABe2m5kBHugQsjDHcXNuB",
-            "amount": 46074307273
+            "amount": 50735417017
         },
         {
             "recipientId": "PQVKTEbJwAHpNe8NL34DzRKbJBLWk7JnA4",
-            "amount": 629248953858
+            "amount": 692906957712
         }
     ],
     "transactionsPending": [],
@@ -66,7 +66,7 @@
     "donationsPercentage": [
         {
             "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM",
-            "amount": 61020000000
+            "amount": 68085000000
         }
     ]
 }
