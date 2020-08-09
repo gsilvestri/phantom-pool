@@ -2,112 +2,99 @@
     "transactions": [
         {
             "recipientId": "PSbVbeXaZxxgxMr9mv6wxsbKD6WQEGaHkr",
-            "amount": 1157804306795
+            "amount": 479136690796
         },
         {
             "recipientId": "PSy5SnVi6b3vjBeb9e8FYhrWc7KNk9ixER",
-            "amount": 487119075869
+            "amount": 201585553505
         },
         {
             "recipientId": "PUyA5zxN8exSdgdWwYxv8S3bVVvQhKVj2G",
-            "amount": 411814030312
+            "amount": 170421901654
         },
         {
             "recipientId": "PScibsgk53Z1VwJLFQCasa54jvqoNuGXd8",
-            "amount": 303161452035
+            "amount": 125457967337
         },
         {
             "recipientId": "PBxct1762M2y5SnQDXaTKsHDqa6ZHsN6L4",
-            "amount": 273635419187
+            "amount": 113239144529
         },
         {
             "recipientId": "PBpmtd4etvaJG4AdF3tHNqY3LgZ2e9Nmna",
-            "amount": 171461611697
+            "amount": 70956334110
         },
         {
             "recipientId": "PLGEyYu3LZ6tGRQwWweT2wsVzBsgGBYJWW",
-            "amount": 104081545424
+            "amount": 43072293784
         },
         {
             "recipientId": "PB23uc6eBBgoBtHv2fDDvEBrCZJfckfCVZ",
-            "amount": 80271227484
+            "amount": 33218817789
         },
         {
             "recipientId": "PHn61Zt746VXC19eCiu2UmVfyx34jbFo7g",
-            "amount": 51030871895
+            "amount": 21118217426
         },
         {
             "recipientId": "PDAh1CK3cJScGYFF9PsCUWAJMCeXwziVLK",
-            "amount": 41501563333
+            "amount": 17174682804
         },
         {
             "recipientId": "PLMqsB3PqxCqmr9ek83tLZunYDzPcAve6F",
-            "amount": 21699168888
+            "amount": 8979814562
         },
         {
             "recipientId": "PAQJFYe1eAsm3SKKY1WW128ZkMj3C3WPgA",
-            "amount": 17870027603
+            "amount": 7395192641
         },
         {
             "recipientId": "PU6mH3ecZUt2MntxXKdX3YHcHAvgByEmeE",
-            "amount": 15036714388
+            "amount": 6222676431
         },
         {
             "recipientId": "PHZkNqEQf7LQQAjMqZK6mcZxsQxKcYkUTU",
-            "amount": 12382241899
+            "amount": 5124170270
         },
         {
             "recipientId": "PX11A6qnVDK5EfDnhEyxSVtF5hfhdB9Mea",
-            "amount": 11099943619
+            "amount": 4593513966
         },
         {
             "recipientId": "PEoBQqGCEyQFqGKuaQ7ZwKZuDnQLMsykSy",
-            "amount": 4871587076
+            "amount": 2016019544
         },
         {
             "recipientId": "P8nnStMyikL35ht19gNouJYnW5RPPZVMFi",
-            "amount": 3795020534
+            "amount": 1570501655
         },
         {
             "recipientId": "PPRmE8hGbHAg5nmsk9js1oC3uiwVdHwwR6",
-            "amount": 2133799413
+            "amount": 883034882
         },
         {
             "recipientId": "PQpT559xSMT3ZXBrKbYwLTBwYjo2sYktjX",
-            "amount": 1428776133
+            "amount": 591273554
         },
         {
             "recipientId": "PWbEazG9bGaHMQp7Zx4Lks7WoiuUcjnpkU",
-            "amount": 1305474480
+            "amount": 540247362
         },
         {
             "recipientId": "PUpVvkXqsZpQxKkYueYVE3vzTvEsTNgpSs",
-            "amount": 991578479
+            "amount": 410347092
         },
         {
             "recipientId": "P93mS5ZVPRRip8XefTU3NvCwHFsoi2Fq8y",
-            "amount": 666598245
-        },
-        {
-            "recipientId": "PLytEzkAvhjtr5Ku6y79EKK3sKKWy7ReQY",
-            "amount": 26887551
+            "amount": 275859810
         }
     ],
-    "transactionsPending": [
-        {
-            "recipientId": "PF4hhs32e7TK6dEmAy9agxWE2NffSBxDjR",
-            "amount": 23473341
-        },
-        {
-            "recipientId": "PKiGWoYUe1pvjuVHWBkHbsvNeUjgFwKTCG",
-            "amount": 22417605
-        }
-    ],
+    "transactionsPending": [],
     "donations": [],
     "donationsPercentage": [
         {
             "recipientId": "PEu66GuDC65aAJaGU99fGNZ5jxH9wS5ivM",
-            "amount": 79380000000
+            "amount": 32850000000
         }
     ]
 }
